@@ -1,16 +1,16 @@
 .head
 {
-    text-align: center;
+    text-align: left;
     
 }
 /*.text
 {
     font-size: 150%;
 }*/
-.image
+.align
 {
-   
-  float: right;
+    margin-left: 250px;
+    margin-right: 250px; 
 }
 .education
 {
